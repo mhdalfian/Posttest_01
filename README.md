@@ -1,5 +1,5 @@
 # repoposttest01
-Nama: MUhammad Alfian Adien
+Nama: Muhammad Alfian Adien
 Nim: 2309116034
 
 berikut gambar flowchart
